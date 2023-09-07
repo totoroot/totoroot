@@ -12,9 +12,9 @@ In case you want to get in touch with me regrarding professional opportunities, 
 
 If you have questions about any of my projects, please feel free to get in touch using my commit Email address on my profile page or open an issue in the corresponding repository.
 
-You can also find me [in the Fediverse on Fosstodon](https://fosstodon.org/@totoroot) and get in touch with me there:
+You can also find me [in the Fediverse on ibe.social](https://ibe.social/@totoroot) and get in touch with me there:
 
-[![](https://img.shields.io/mastodon/follow/000161966?domain=https%3A%2F%2Ffosstodon.org%2F&style=social)](https://fosstodon.org/@totoroot)
+[![](https://img.shields.io/mastodon/follow/000161966?domain=https%3A%2F%ibe.social%2F&style=social)](https://ibe.social/@totoroot)
 
 I'll try to get back to you as soon as I can.
 
